@@ -1,0 +1,16 @@
+{
+  "name": "ekonomi-bot-v13",
+  "version": "0.0.1",
+  "description": "Sleax Ekonomi Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sleax#0019",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.1.7",
+    "table": "^6.8.0"
+  }
+}
